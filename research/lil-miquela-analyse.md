@@ -73,6 +73,8 @@ Haar NMDP-campagne (stamceldonatie) was de grootste uitschieter van 2025 in impr
 
 ## 4. Toepassen op Goldie Washington: actieplan
 
+> De uitgewerkte, Goldie-specifieke versie (op basis van haar brief en reference images) staat in **[goldie-playbook.md](goldie-playbook.md)**. Hieronder staat het algemene kader.
+
 ### A. Positionering
 - **Wees vanaf dag één open over AI**, en maak er een grap of een running gag van, zoals Miquela met _"I'M A ROBOT"_. Verstoppen werkt niet meer en is riskant, mede door de labelregels van Meta en TikTok.
 - **Geef Goldie een tweede ambacht** naast er goed uitzien: muziek, mode-ontwerp, koken, comedy, een vak. Daar komen de verhalen vandaan.
