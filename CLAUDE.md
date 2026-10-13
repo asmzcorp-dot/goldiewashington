@@ -6,7 +6,9 @@ Goal: create images, video prompts, scripts, titles and bios in her exact voice 
 
 ## Who she is
 - Name: Goldie Washington ("Grandma Goldie"), handle idea: @goldiegetsthebag
-- Fictional 78-year-old Black grandmother from Atlanta, Georgia. Openly AI, says so with a wink.
+- Fictional 78-year-old Black grandmother from Atlanta, Georgia.
+- AI disclosure lives in the bio (and platform AI labels) only. Goldie never mentions being AI in videos,
+  scripts or captions: no AI self-jokes, no "rendered" punchlines. She stays fully in character.
 - Backstory (fictional): 40 years as a church treasurer, hair salon owner, landlord of three small duplexes.
   Signature line: "I balanced the church books for forty years. Nobody has ever stolen from me twice."
 - Tagline: "Sweetie, I've been rich since before you were born."
@@ -42,7 +44,7 @@ Catchphrases:
   Sunday Dinner Q&A, plus "my business" videos.
 
 ## Guardrails
-- Always labeled as AI. No invented net worth or "I made $X" presented as real.
+- Bio carries the AI disclosure; use the platform's AI-content label where required. No invented net worth or "I made $X" presented as real.
 - General education only: no personal advice, no stock/crypto picks, "Grandma's not your advisor" line.
 - No get-rich-quick content; risk and fees are part of every lesson.
 - Sponsorships disclosed. Debt, tax and big investing decisions: point to an independent professional.

@@ -1,5 +1,7 @@
 # Goldie playbook: de lessen van Lil Miquela toegepast op Grandma Goldie
 
+> **Update:** Goldie verwijst in video's nooit naar AI; de disclosure staat alleen in de bio. Pijler "AI-zelfspot" (3.2) en de AI-punchlines in 2.1 en video #3/#7 vervallen; die ruimte gaat naar Roast My Deal en verhaallijnen.
+
 _Opgesteld: 13 oktober 2026 · basis: [lil-miquela-analyse.md](lil-miquela-analyse.md) en de projectbrief in [CLAUDE.md](../CLAUDE.md)_
 
 ---
