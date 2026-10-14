@@ -73,3 +73,12 @@ Not yet generated: the cozy "grandma" living room with the plastic-covered armch
 ## Research
 - `research/lil-miquela-analyse.md`: what works for Lil Miquela (Dutch).
 - `research/goldie-playbook.md`: those lessons applied to Goldie (Dutch).
+
+## Video workflow (agreed with the team)
+1. Pitch ONE script first (21–30 s, built to go viral); wait for approval.
+2. After approval: generate the location(s) in Higgsfield (GPT Image 2.5, 9:16, 2K).
+3. Then generate Goldie's outfit as a new two-panel character sheet (GPT Image 2.5 edit on an existing sheet).
+4. Then deliver ONE complete Seedance 2.5 prompt for the whole video (single take, no split),
+   with @image1 = outfit sheet, @image2 = location, @audio1 = other voice(s), @audio2 = Goldie's voice.
+- Chat with the team in Dutch; prompts and dialogue in English.
+- Other characters are off-camera voices or faceless (hands, backs); the camera is often a family member's phone (POV).
