@@ -49,3 +49,8 @@ Prompt snippet: "standing upright he reaches the lower chest of a standing adult
 ## Social profile picture candidates (1:1, inspired by Abu Nutty's arena shot and Casper's lifestyle shot)
 - A "Fight night" (cage, roaring, glove up) — `509e061f-9fd0-4af3-bd57-be7ad3801358`
 - B "Dublin streets" (leather jacket, gold chain, cocky stare) — `e0fdd229-1853-4648-b739-be8a524ece24`
+
+## League: UCF — Ultimate Cat Fighting (fictional)
+- Always "UCF", never "UFC". Own visual identity, never UFC's red/black block font or layout:
+  bold metallic GOLD letters "UCF" with three diagonal claw-scratch marks slashing through them, on black.
+- Shown on the cage canvas centre, cage padding, the belt and in commentary ("Welcome to UCF Fight Night").
