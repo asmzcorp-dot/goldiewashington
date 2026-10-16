@@ -32,3 +32,16 @@ AI disclosure in the bio + platform AI label.
 - Living room at night with Irish flag — `ec20e938-6f42-4e1d-a8e9-fc2122173ae0`
 - Boxing gym (no bench) with Irish flag — `2e1698f0-75ac-400d-b057-b8c00f36da6b`
 - Coach (with face): sheet A — `46b49398-5c3b-4d91-a48a-660299cbeda3`
+
+## Fighting style (use in EVERY fight/training prompt)
+Inspired by McGregor's style, but never name a real fighter in prompts — describe it:
+- Southpaw, wide bladed karate-style stance, side-on, weight on the back leg, light bouncy footwork.
+- Hands held LOW and loose, chin tucked, relaxed and taunting; draws the opponent in.
+- Signature weapon: a lightning-fast straight LEFT counter (power hand). Also spinning kicks / front kicks to the body.
+- Swagger: shoulder shrugs, dropping the hands, sideways strut between combos.
+Prompt snippet: "southpaw, wide side-on karate-style stance, hands low and loose, bouncing footwork, fires a lightning-fast straight left counter, cocky taunting body language".
+
+## Size
+McGraw is a BIG cat: standing upright on his hind legs he comes up to about the lower chest of a standing adult man.
+Coaches and humans STAND or only slightly crouch to hold pads for him — no kneeling (video 02 had the coach kneeling; avoid next time).
+Prompt snippet: "standing upright he reaches the lower chest of a standing adult man; the coach stands with slightly bent knees to hold the pads".
