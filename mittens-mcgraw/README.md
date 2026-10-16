@@ -45,3 +45,7 @@ Prompt snippet: "southpaw, wide side-on karate-style stance, hands low and loose
 McGraw is a BIG cat: standing upright on his hind legs he comes up to about the lower chest of a standing adult man.
 Coaches and humans STAND or only slightly crouch to hold pads for him — no kneeling (video 02 had the coach kneeling; avoid next time).
 Prompt snippet: "standing upright he reaches the lower chest of a standing adult man; the coach stands with slightly bent knees to hold the pads".
+
+## Social profile picture candidates (1:1, inspired by Abu Nutty's arena shot and Casper's lifestyle shot)
+- A "Fight night" (cage, roaring, glove up) — `509e061f-9fd0-4af3-bd57-be7ad3801358`
+- B "Dublin streets" (leather jacket, gold chain, cocky stare) — `e0fdd229-1853-4648-b739-be8a524ece24`
