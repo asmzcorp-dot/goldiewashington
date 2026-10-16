@@ -13,7 +13,7 @@ Attach in this order:
 Coach voice prompt (461 chars):
 Original male voice, mid 50s, Dublin Irish accent, an old-school boxing coach. Rough, gravelly, smoker's rasp, warm underneath. Barks short training commands with punchy rhythm and real excitement when a combo lands, then exasperated and fed up when his fighter loses focus. Ends with a tired, deadpan sigh. Raw gym recording: slightly echoey, a bit of distance from the mic, natural breathing between commands. Not theatrical. A fully original character voice.
 
-@audio1 text (coach): One-two. Show me. ... Again! One-two-hook! ... Ooh! That's it, that's it! Now finish strong, finish... ... McGraw. McGraw! Focus, ya muppet! ... (sigh) Sure ya were.
+@audio1 text (coach): One-two. Show me. ... Again! One-two-hook! ... Ooh! That's it, that's it! Now finish strong, finish... ... McGraw. McGraw! Focus, ya muppet! ... (grunts) Sure ya were.
 @audio2 text (McGraw): ...I was testin' his reactions. ... ... Abu Nutty. Ya saw that? ... You're next, pal.
 
 ```
@@ -28,8 +28,8 @@ TOP PRIORITY (read first):
 @image1 — McGraw's character sheet: identity reference ONLY (face, fur markings, scar, ears, outfit), NEVER its lighting or grey background. Outfit: plain black sleeveless training tank top with cut-off armholes, plain dark charcoal-grey training shorts, small padded black boxing training gloves with red lace-up cuffs, red hand wraps just visible at the cuffs, slightly sweat-damp fur on the neck and arms. No text or logos on the clothing.
 @image2 — the coach's character sheet: identity reference ONLY (face, build, cap, clothing, forearm tattoo, watch, pads), NEVER its lighting or grey background. Mid-50s man, weathered face, once-broken bent nose, small scar through his left eyebrow, grey stubble; plain dark navy cap, plain black zip-up training jacket with sleeves pushed up, dark grey track pants, white towel over his left shoulder, two plain black focus pads.
 @image3 — location: gritty old-school boxing gym in daylight (black rubber mats, red-brick wall with an Irish tricolour flag, old ring, punching bags, dusty industrial windows). Scene reference only, generic, no brands, no readable text.
-@audio1 — the coach's pre-recorded lines: gravelly Dublin-Irish boxing coach, barking commands, then exasperated, then a tired sigh. Use exactly as recorded.
-@audio2 — McGraw's pre-recorded lines: low, raspy, cocky Dublin-Irish voice; deadpan, then a cold call-out. Use exactly as recorded.
+@audio1 — the coach's pre-recorded lines: AGGRESSIVE, loud gravelly Dublin-Irish boxing coach shouting commands like a drill sergeant, then furious yelling, then an angry grunt. Use exactly as recorded.
+@audio2 — McGraw's pre-recorded lines: AGGRESSIVE, snarling, low raspy Dublin-Irish growl; the call-out is spat with pure menace. Use exactly as recorded; his face, ears and body match that aggression (ears pinned back, a flash of fangs, a snarl on the threat).
 
 CRITICAL — RELIGHT: Discard the lighting of @image1 and @image2 entirely and relight both characters from scratch inside @image3. Key light: warm daylight from the tall dusty windows on one side, raking across McGraw's fur and the coach's face, catching floating dust. Fill: soft warm overhead gym lamps. Color bounce: warm red-brown bounce from the brick wall on their shadow sides; faint dark bounce from the black mats. True contact shadows under McGraw's hind paws and under the coach's knee on the mat. Both must look physically present and photographed in the gym — never cut-outs pasted from a grey background; never brighter than the environment.
 LIGHT STABILITY: constant daylight for the whole take, not a time-lapse.
