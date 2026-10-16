@@ -3,7 +3,8 @@
 Attach in this order:
 - @image1 = gym training outfit sheet B (tank top, training shorts, boxing gloves) — job `6bcd7326-383c-465b-9e3c-52be80a64685`
   (rejected: fight shorts + boxing gloves, jobs `51443993-…`, `b36a966a-…`)
-- @image2 = Gym B without bench — job `2e1698f0-75ac-400d-b057-b8c00f36da6b`
+- @image2 = coach sheet (faceless) — option A job `68d42c13-8c97-417b-8441-570e87997cb6` / option B job `4c31f90f-9c6d-4963-a0a1-afddbf3ae881`
+- @image3 = Gym B without bench — job `2e1698f0-75ac-400d-b057-b8c00f36da6b`
 - @audio1 = coach voice (coach lines only)
 - @audio2 = McGraw voice (his one line only)
 
@@ -23,11 +24,12 @@ TOP PRIORITY (read first):
 
 === REFERENCE KEY (attach in this order) ===
 @image1 — McGraw's character sheet: identity reference ONLY (face, fur markings, scar, ears, outfit), NEVER its lighting or grey background. Outfit: plain black sleeveless training tank top with cut-off armholes, plain dark charcoal-grey training shorts, small padded black boxing training gloves with red lace-up cuffs, red hand wraps just visible at the cuffs, slightly sweat-damp fur on the neck and arms. No text or logos on the clothing.
-@image2 — location: gritty old-school boxing gym in daylight (black rubber mats, red-brick wall with an Irish tricolour flag, old ring, punching bags, dusty industrial windows). Scene reference only, generic, no brands, no readable text.
+@image2 — the coach's character sheet: reference ONLY for his body, cap, clothing, forearm tattoo, watch and pads, NEVER its lighting or grey background. He is faceless in the sheet and stays faceless in the video.
+@image3 — location: gritty old-school boxing gym in daylight (black rubber mats, red-brick wall with an Irish tricolour flag, old ring, punching bags, dusty industrial windows). Scene reference only, generic, no brands, no readable text.
 @audio1 — the coach's pre-recorded lines: gravelly Dublin-Irish boxing coach, barking commands, then exasperated, then a tired sigh. Use exactly as recorded.
 @audio2 — McGraw's pre-recorded line: low, raspy, cocky Dublin-Irish voice, deadpan. Use exactly as recorded.
 
-CRITICAL — RELIGHT: Discard the lighting of @image1 entirely and relight McGraw from scratch inside @image2. Key light: warm daylight from the tall dusty windows on one side, raking across his fur and catching floating dust. Fill: soft warm overhead gym lamps. Color bounce: warm red-brown bounce from the brick wall on his shadow side; faint dark bounce from the black mats under his chin. True contact shadows under his hind paws on the mat and under the coach's knee. He must look physically present and photographed in the gym — never a cut-out pasted from a grey background; never brighter than the environment.
+CRITICAL — RELIGHT: Discard the lighting of @image1 entirely and relight McGraw and the coach from scratch inside @image3. Key light: warm daylight from the tall dusty windows on one side, raking across his fur and catching floating dust. Fill: soft warm overhead gym lamps. Color bounce: warm red-brown bounce from the brick wall on his shadow side; faint dark bounce from the black mats under his chin. True contact shadows under his hind paws on the mat and under the coach's knee. He must look physically present and photographed in the gym — never a cut-out pasted from a grey background; never brighter than the environment.
 LIGHT STABILITY: constant daylight for the whole take, not a time-lapse.
 
 IMAGE QUALITY: modern flagship phone in daylight — clean and sharp, true-to-life colors, real individual fur hairs and whiskers, sweat-damp fur at the chest, no waxy or plastic fur, no AI-smooth look, no film-grain filter, no vignette filter.
@@ -36,7 +38,7 @@ Style: authentic gym clip filmed by a teammate, feels like real footage of a rea
 
 Camera movement: handheld by a teammate standing at the edge of the mat at McGraw's head height, filming from the side. Standing micro-sway, one small reframe when McGraw pounces, one step-adjust closer at the end when McGraw turns to the lens. No cuts, no zooms.
 
-THE COACH: an ordinary man in his 50s in a black training jacket and a plain dark cap, no logos. He kneels on one knee on the mat so the pads are at the cat's height, his back three-quarter to the camera on the right side of the frame. Only his back, shoulder, cap and forearms are visible; his face is NEVER shown. He holds two black focus pads, plain, no logos.
+THE COACH (@image2): an ordinary man in his mid 50s, solid broad build, plain dark navy cap, plain black zip-up training jacket with sleeves pushed up, dark grey track pants, faded blurry tattoo on his right forearm, steel watch on his left wrist, no logos. He kneels on one knee on the mat so the pads are at the cat's height, his back three-quarter to the camera on the right side of the frame. Only his back, shoulder, cap and forearms are visible; his face is NEVER shown. He holds two black focus pads, plain, no logos.
 
 ACTING TASK — McGRAW (fully invested; the work reads through the eyes, the ears and his body):
 SCENE DIRECTION (unspoken): show the world he is a real, dangerous fighter — until instinct beats discipline.
