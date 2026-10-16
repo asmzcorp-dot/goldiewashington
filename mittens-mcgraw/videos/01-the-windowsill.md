@@ -18,3 +18,4 @@ Caption: "They're not ready. 🐾" — hashtags: #mcgraw #ninelives #catfighter 
 Fighter's living room at night, seen from the TV: worn leather couch, windowsill with rainy city view, punching bag, gloves on a hook.
 - Location A — job `8327a1f9-e44b-4f17-a1b8-e761703b6b37`
 - Location B — job `0ab025a3-d6d5-4c89-9edc-0d1a1b91a3c9`
+- With Irish flag (edit): A+flag — job `1cc2d096-1613-4d0e-bf20-699031db21b6`; B+flag — job `ec20e938-6f42-4e1d-a8e9-fc2122173ae0`
