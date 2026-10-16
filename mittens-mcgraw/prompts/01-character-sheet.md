@@ -29,3 +29,10 @@ Lighting & rendering: Low-key moody directional sports-arena style studio lighti
 Prompt: "Edit the existing image ... RIGHT EAR FIX: redraw his RIGHT ear as ONE single normal cat ear ... Keep his LEFT ear exactly as it is, including the V-shaped notch ..."
 - Fix A — job `096470d4-0953-4131-80b5-fc3635f73718`
 - Fix B — job `251dfae2-c2db-4d46-a490-01b642508017`
+- Result: still looked like two ears. Cause: the "V-shaped NOTCH in the ear tip" anchor renders as a forked tip.
+
+## Fix 2: ear anchor changed (edit on variant A)
+Anchor is now: both ears single intact pointed tips; small healed nick on the OUTER EDGE of the LEFT ear, halfway down.
+Never write "notch in the ear tip" again for McGraw.
+- Fix 2A — job `a09fd07e-8e86-45cd-86fb-9fbb832da34d`
+- Fix 2B — job `fa39857b-648a-47e9-83c9-255fa79a853c`
