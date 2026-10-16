@@ -70,6 +70,10 @@ Catchphrases:
 Not yet generated: the cozy "grandma" living room with the plastic-covered armchair and rotary phone
 (needed for Roast My Deal and Church Lady Math), the salon, the duplexes, the plane.
 
+## Other characters
+- `characters/mr-velvet.md`: Mr. Velvet, the singing/lip-syncing cat for TikTok (separate from Goldie):
+  look, Higgsfield asset IDs, video script, prompts and current status. Same video workflow as below.
+
 ## Research
 - `research/lil-miquela-analyse.md`: what works for Lil Miquela (Dutch).
 - `research/goldie-playbook.md`: those lessons applied to Goldie (Dutch).
