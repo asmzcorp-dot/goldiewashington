@@ -27,3 +27,11 @@ Commentary: two ORIGINAL commentator voices (play-by-play + colour), no real com
   - SHOT 2 KO impact — `d6c18362-58f4-412c-9b15-ddedc0ea301c`
   - SHOT 3 aftermath high angle — `16875ab4-1ca0-47c0-88ad-871e6d60b122`
   - SHOT 4 on top of the cage — `3454d0c8-e509-4b33-a99a-b4c1d6f9a0fd`
+
+## LOCKED: arena B (`fe9766ee-084b-4bc3-a683-89ff306c913c`) + Declan A (`6f9f8e8d-3ea0-4e28-9887-976d8d21e6a5`)
+Shot stills v2 (on arena B):
+- SHOT 1 standoff — `087d1060-82de-4a7b-9598-03d838a0e7d8`
+- SHOT 2 KO impact — `60ebed90-6141-423c-a5f7-3041631782fb`
+- SHOT 3 aftermath high angle — `a8d38701-d053-44e0-b5d4-4b78ddd19497`
+- SHOT 4 on top of the cage — `c6c080e4-d6e4-400d-b4ad-13ceec3a791f`
+(v1 shots on arena A are superseded.)
