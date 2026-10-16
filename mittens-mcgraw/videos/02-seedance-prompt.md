@@ -1,7 +1,7 @@
 # Video 02 — "Focus" — Seedance 2.5 prompt (single take, ~25 s, 9:16)
 
 Attach in this order:
-- @image1 = gym training outfit sheet (tank top, training shorts, boxing gloves) — option A job `990a5d4b-7632-4646-8ec1-a7156e186db9` / option B job `6bcd7326-383c-465b-9e3c-52be80a64685`
+- @image1 = gym training outfit sheet B (tank top, training shorts, boxing gloves) — job `6bcd7326-383c-465b-9e3c-52be80a64685`
   (rejected: fight shorts + boxing gloves, jobs `51443993-…`, `b36a966a-…`)
 - @image2 = Gym B without bench — job `2e1698f0-75ac-400d-b057-b8c00f36da6b`
 - @audio1 = coach voice (coach lines only)

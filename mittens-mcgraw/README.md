@@ -22,3 +22,12 @@ AI disclosure in the bio + platform AI label.
 - Fictional league only (no UFC name/logos, no real fighters, announcers or broadcast footage).
 - Serious sports tone; the humour comes from it being a cat.
 - Credits: always check the cost first; the user decides on bigger spends.
+
+## Outfits
+- Fight night: sheet 2A (fight shorts "McGRAW", open-finger gloves) — `a09fd07e-8e86-45cd-86fb-9fbb832da34d`
+- At home: sweatpants, bare chest, wraps — `f8a9aa43-38e6-4cad-90e5-4fae10e3e144`
+- Gym training: black tank top, charcoal training shorts, boxing gloves — `6bcd7326-383c-465b-9e3c-52be80a64685`
+
+## Locations
+- Living room at night with Irish flag — `ec20e938-6f42-4e1d-a8e9-fc2122173ae0`
+- Boxing gym (no bench) with Irish flag — `2e1698f0-75ac-400d-b057-b8c00f36da6b`
