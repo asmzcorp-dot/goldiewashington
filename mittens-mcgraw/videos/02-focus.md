@@ -16,3 +16,4 @@ Audio: @audio1 = coach, @audio2 = McGraw.
 ## Location (GPT Image 2.5, 9:16, 2K): gritty boxing gym with Irish flag
 - Gym A — job `05858494-84c1-4b4b-a98d-bfff6fc5de27`
 - Gym B — job `736f8bfc-e514-4f8f-8854-5709af2e30cb`
+- Bench removed (edit): Gym A — job `169284f1-069b-4d37-bfe1-474310c6f7b4`; Gym B — job `2e1698f0-75ac-400d-b057-b8c00f36da6b`
