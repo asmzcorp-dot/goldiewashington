@@ -4,7 +4,7 @@ Changes v2: coach's face may be visible; filmed from the side; new ending (McGra
 
 Attach in this order:
 - @image1 = McGraw gym training outfit sheet B — job `6bcd7326-383c-465b-9e3c-52be80a64685`
-- @image2 = coach sheet with face — option A job `46b49398-5c3b-4d91-a48a-660299cbeda3` / option B job `6dde2e37-9689-4631-a5eb-18244636e834`
+- @image2 = coach sheet A (with face) — job `46b49398-5c3b-4d91-a48a-660299cbeda3`
   (unused faceless coach sheets: `68d42c13-…`, `4c31f90f-…`)
 - @image3 = Gym B without bench — job `2e1698f0-75ac-400d-b057-b8c00f36da6b`
 - @audio1 = coach voice (coach lines only)
