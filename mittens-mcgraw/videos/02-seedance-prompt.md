@@ -40,7 +40,7 @@ Style: authentic gym clip filmed by a teammate, feels like real footage of a rea
 
 Camera movement: handheld by a teammate standing still at the edge of the mat, filming from the SIDE at McGraw's head height, both fighters in profile. Standing micro-sway, one small reframe when McGraw pounces. At the end McGraw walks straight toward the camera and the teammate holds position, so McGraw grows in the frame until his pointing glove and face fill it; one autofocus breath as he arrives. No cuts, no zooms.
 
-THE COACH (@image2): kneels on one knee on the mat facing McGraw in profile, holding the two focus pads at the cat's height. His face is visible in profile and three-quarter; he reacts with real energy to good punches, then exasperation. Never overacted.
+THE COACH (@image2): kneels on one knee on the mat facing McGraw in profile, holding the two focus pads at the cat's height. His face is visible in profile and three-quarter; he shouts with fierce energy at good punches, then yells furiously when McGraw loses focus. Intense but never cartoonish.
 
 ACTING TASK — McGRAW (fully invested; the work reads through the eyes, the ears and his body):
 SCENE DIRECTION (unspoken): show the world he is a real, dangerous fighter, then use the moment to call out his rival.
@@ -57,10 +57,10 @@ Moment to moment:
 - THE POUNCE — he springs at the strap, bats it with both gloves and bites it, tail lashing; the coach recoils.
 - «McGraw. McGraw! Focus, ya muppet!» — he keeps the strap in his mouth for one beat, then lets go.
 - «…I was testin' his reactions.» (@audio2) — stands upright, wipes his nose with his glove, totally deadpan, eyes on the coach.
-- «Sure ya were.» — the coach sighs and rolls his eyes; McGraw does not react.
+- «Sure ya were.» — the coach grunts angrily and rolls his eyes; McGraw does not react.
 - THE CALL-OUT — McGraw turns away from the coach toward the camera and walks straight at it on his hind legs, slow and heavy, right glove raised and pointing directly into the lens.
-- «Abu Nutty. Ya saw that?» (@audio2) — still walking, eyes locked on the lens, no blink.
-- «…You're next, pal.» (@audio2) — he stops right in front of the lens, glove pointing into it, head lowered, ears back, one slow blink.
+- «Abu Nutty. Ya saw that?» (@audio2) — still walking, eyes locked on the lens, ears pinned back, lips pulled back in a snarl showing his fangs, no blink.
+- «…You're next, pal.» (@audio2) — he stops right in front of the lens, glove jabbing toward it, head lowered, ears flat, a low snarl with bared fangs on the last word, then dead still.
 (Safety: gaze always engaged — never frozen or glassy; natural blinks.)
 
 PROP RULE: the two focus pads exist from the first frame on the coach's hands. The single velcro strap on the right pad is attached until the scripted moment, then hangs and swings from that pad; it never detaches completely, never multiplies, never changes design. The towel stays on the coach's shoulder.
@@ -79,7 +79,7 @@ ON-SCREEN TEXT: none. (Added in post by the team.)
 
 Audio: lip-sync McGraw exactly to @audio2 and the coach exactly to @audio1. No added words, no other voices, no music. Diegetic sound under everything: sharp leather cracks of punches on the pads, McGraw's quick breaths, the rubber mat squeaking, the velcro rip, his soft footsteps on the mat as he walks to the camera, a heavy bag creaking on its chain, distant gym echo.
 
-Mood & tempo: explosive and impressive, then a sudden frozen silence, then chaos, then deadpan, then a cold, slow, personal threat.
+Mood & tempo: explosive and impressive, then a sudden frozen silence, then chaos, then deadpan, then an aggressive, snarling personal threat.
 
 SHOT BREAKDOWN:
 0.0–3.0s — Side view. Lightning one-two, pads crack. Coach (@audio1): «One-two. Show me.»
@@ -87,6 +87,6 @@ SHOT BREAKDOWN:
 8.0–11.0s — Strap comes loose and swings. Coach: «Now finish strong, finish—»
 11.0–14.5s — THE FREEZE: eyes track the strap, pupils huge, butt wiggle. Silence except the gym hum.
 14.5–18.0s — THE POUNCE: bats and bites the strap. Coach: «McGraw. McGraw! Focus, ya muppet!»
-18.0–21.5s — Lets go, wipes his nose. McGraw (@audio2): «…I was testin' his reactions.» Coach (sigh, eye roll): «Sure ya were.»
-21.5–28.0s — THE CALL-OUT: McGraw turns and walks straight at the camera pointing his glove into the lens. McGraw (@audio2): «Abu Nutty. Ya saw that?» … «…You're next, pal.» He stops with his face and glove filling the frame and holds the stare to the end.
+18.0–21.5s — Lets go, wipes his nose. McGraw (@audio2): «…I was testin' his reactions.» Coach (angry grunt, eye roll): «Sure ya were.»
+21.5–28.0s — THE CALL-OUT: McGraw turns and walks straight at the camera pointing his glove into the lens. McGraw (@audio2): «Abu Nutty. Ya saw that?» … «…You're next, pal.» He stops snarling, fangs bared, face and glove filling the frame, and holds the stare to the end.
 ```
