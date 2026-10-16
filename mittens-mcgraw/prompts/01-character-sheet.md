@@ -24,3 +24,8 @@ Lighting & rendering: Low-key moody directional sports-arena style studio lighti
 - Chosen: **variant A** — Higgsfield job `6b385107-bcce-4e12-b5e2-ff8911a3f1bf`
   (https://d8j0ntlcm91z4.cloudfront.net/user_3KPwsLOaLDxhTWQ4DM2uUhFV0qO/hf_20261016_011532_6b385107-bcce-4e12-b5e2-ff8911a3f1bf.png)
 - Rejected: variant B — job `38458817-43ac-499e-bf7a-9784d4ce1bd6`
+
+## Fix: doubled right ear (GPT Image 2.5 edit on variant A)
+Prompt: "Edit the existing image ... RIGHT EAR FIX: redraw his RIGHT ear as ONE single normal cat ear ... Keep his LEFT ear exactly as it is, including the V-shaped notch ..."
+- Fix A — job `096470d4-0953-4131-80b5-fc3635f73718`
+- Fix B — job `251dfae2-c2db-4d46-a490-01b642508017`
