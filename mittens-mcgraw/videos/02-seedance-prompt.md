@@ -1,7 +1,8 @@
 # Video 02 — "Focus" — Seedance 2.5 prompt (single take, ~25 s, 9:16)
 
 Attach in this order:
-- @image1 = training outfit sheet (boxing gloves) — option A job `51443993-750a-42cd-9ca7-4b12472050d9` / option B job `b36a966a-8a80-4202-8141-76257f5a904f`
+- @image1 = gym training outfit sheet (tank top, training shorts, boxing gloves) — option A job `990a5d4b-7632-4646-8ec1-a7156e186db9` / option B job `6bcd7326-383c-465b-9e3c-52be80a64685`
+  (rejected: fight shorts + boxing gloves, jobs `51443993-…`, `b36a966a-…`)
 - @image2 = Gym B without bench — job `2e1698f0-75ac-400d-b057-b8c00f36da6b`
 - @audio1 = coach voice (coach lines only)
 - @audio2 = McGraw voice (his one line only)
@@ -21,7 +22,7 @@ TOP PRIORITY (read first):
 5. ONE continuous take, no cuts. No readable text or logos anywhere.
 
 === REFERENCE KEY (attach in this order) ===
-@image1 — McGraw's character sheet: identity reference ONLY (face, fur markings, scar, ears, outfit), NEVER its lighting or grey background. Outfit: black fight shorts with a gold side stripe and "McGRAW" in gold on the waistband, small padded black boxing training gloves with red lace-up cuffs, red hand wraps just visible at the cuffs, slightly sweat-damp fur on the chest and neck.
+@image1 — McGraw's character sheet: identity reference ONLY (face, fur markings, scar, ears, outfit), NEVER its lighting or grey background. Outfit: plain black sleeveless training tank top with cut-off armholes, plain dark charcoal-grey training shorts, small padded black boxing training gloves with red lace-up cuffs, red hand wraps just visible at the cuffs, slightly sweat-damp fur on the neck and arms. No text or logos on the clothing.
 @image2 — location: gritty old-school boxing gym in daylight (black rubber mats, red-brick wall with an Irish tricolour flag, old ring, punching bags, dusty industrial windows). Scene reference only, generic, no brands, no readable text.
 @audio1 — the coach's pre-recorded lines: gravelly Dublin-Irish boxing coach, barking commands, then exasperated, then a tired sigh. Use exactly as recorded.
 @audio2 — McGraw's pre-recorded line: low, raspy, cocky Dublin-Irish voice, deadpan. Use exactly as recorded.
@@ -61,7 +62,7 @@ Physics: real impact — the pads snap back with each punch, the coach's arms ab
 
 Composition: vertical 9:16. McGraw in profile on the left-center, full body from ears to hind paws, ears well inside the frame; the kneeling coach on the right, back to the camera. The brick wall with the Irish flag and the ring behind them. Upper third stays calm enough for post text.
 
-Consistency: same cat, same scar, same ears, same outfit, same coach clothing, same gym for the whole take.
+Consistency: same cat, same scar, same ears, same training outfit, same coach clothing, same gym for the whole take.
 
 Editing: one continuous take, no cuts, no transitions.
 
