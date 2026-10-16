@@ -81,7 +81,7 @@ TOP PRIORITY (read first):
 1. McGraw is a REAL photorealistic orange tabby tomcat (@image1) walking and climbing on his hind legs. Real cat anatomy, real fur, real cat mouth and jaw — NO human lips, NO human teeth, NO human hands, NOT a cartoon, NOT a person in a costume.
 2. Identities match 100%: McGraw = @image1 (tabby M on the forehead, amber-gold eyes, pale diagonal scar across the nose bridge, two normal ears each with ONE intact pointed tip, small nick on the outer edge of the LEFT ear). Declan = @image2 (bald, thick dark beard, tribal tattoo sleeve on the right arm, red shorts).
 3. EXACTLY ONE hard cut, at 7.0s: from the high side angle of @image3 to the handheld angle of @image4.
-4. @audio1 contains off-screen commentators AND McGraw's shout. McGraw's mouth moves ONLY on «ABU! You're NEXT!» (about 8.0–10.0s); every other voice is off-screen. Everyone speaks ONLY English.
+4. @audio1 contains off-screen commentators AND McGraw's shout. McGraw's mouth moves ONLY on «WHO'S NEXT?!» (about 8.0–10.0s); every other voice is off-screen. Everyone speaks ONLY English.
 5. Clean anatomy when he climbs: four limbs, gloves stay on, no extra limbs.
 
 === REFERENCE KEY (attach in this order) ===
@@ -89,7 +89,7 @@ TOP PRIORITY (read first):
 @image2 — Declan Moss character sheet: identity reference ONLY, NEVER its lighting or grey background.
 @image3 — FIRST FRAME: high broadcast angle, Declan face-down, referee waving it off, McGraw walking away. Match it exactly at 0.0s.
 @image4 — the composition after the cut: McGraw sitting on top of the cage fence, roaring and pointing into the lens.
-@audio1 — mixed track: two off-screen commentators, McGraw's aggressive Dublin-Irish shout, crowd. Use exactly as recorded.
+@audio1 — clip 2 track: off-screen commentator 2 (0.4–2.4s), off-screen commentator 1 (4.0–7.2s), McGraw's aggressive Dublin-Irish shout on screen (from 8.0s). Use exactly as recorded.
 
 CRITICAL — RELIGHT: hard white broadcast spotlights straight down from the rig above the cage, hot top-light on heads and fur, cool bounce up from the white canvas, warm rim from the crowd-side lights; on top of the fence McGraw is backlit by the spotlights with a glowing rim on his fur. True contact shadows. Never pasted cut-outs; never brighter than the environment.
 LIGHT STABILITY: constant arena lighting, not a time-lapse.
@@ -107,7 +107,7 @@ ACTION:
 - 0.0–3.0s: Declan lies face-down, motionless; the referee dives in waving it off and kneels beside him. McGraw is already walking calmly away across the canvas on his hind legs, not looking back, gloves low, tail up.
 - 3.0–7.0s: McGraw reaches the fence and starts to climb it with two quick, agile cat-like hops; the crowd on its feet behind.
 - 7.0–9.0s (SHOT 4): he settles on top of the padded fence, one hind leg on each side, looks down at the camera.
-- 8.0–10.0s: «ABU! You're NEXT!» — mouth wide open in a roar showing his fangs, ears pinned back, right glove jabbing down into the lens.
+- 8.0–10.0s: «WHO'S NEXT?!» — mouth wide open in a roar showing his fangs, ears pinned back, right glove jabbing down into the lens.
 - 10.0–14.0s: he holds the pose, chest heaving, snarling at the lens while the crowd erupts; a few camera flashes pop on his fur.
 
 Physics: the fence flexes and rattles under his weight as he climbs; fur and tail move with each hop; Declan's body lies heavy and still on the canvas.
@@ -130,6 +130,6 @@ SHOT BREAKDOWN:
 0.0–4.0s — SHOT 3. Ref waves it off, McGraw walks away. C2: «NINE SECONDS! Are you KIDDING me?!»
 4.0–7.0s — McGraw climbs the fence. C1: «Nine seconds… nine lives!»
 7.0s — HARD CUT to SHOT 4.
-7.0–10.0s — He settles on top. McGraw (on screen): «ABU! You're NEXT!» — fangs, ears back, glove into the lens.
-10.0–14.0s — Holds the pose, crowd erupts. C2: «Oh, he's calling him OUT!»
+7.0–10.0s — He settles on top. McGraw (on screen): «WHO'S NEXT?!» — fangs, ears back, glove into the lens.
+10.0–14.0s — Holds the pose, snarling, while the crowd erupts. No more dialogue.
 ```
