@@ -2,7 +2,7 @@
 
 Attach in this order:
 - @image1 = outfit sheet A (at home) — job `f8a9aa43-38e6-4cad-90e5-4fae10e3e144`
-- @image2 = chosen living-room location with Irish flag (A `1cc2d096-…` or B `ec20e938-…`)
+- @image2 = location B with Irish flag — job `ec20e938-6f42-4e1d-a8e9-fc2122173ae0`
 - @audio1 = McGraw's full voice-over (the whole script, one file, 26 s)
 
 ```
