@@ -19,3 +19,8 @@ Fighter's living room at night, seen from the TV: worn leather couch, windowsill
 - Location A — job `8327a1f9-e44b-4f17-a1b8-e761703b6b37`
 - Location B — job `0ab025a3-d6d5-4c89-9edc-0d1a1b91a3c9`
 - With Irish flag (edit): A+flag — job `1cc2d096-1613-4d0e-bf20-699031db21b6`; B+flag — job `ec20e938-6f42-4e1d-a8e9-fc2122173ae0`
+
+## Outfit sheet: at home (edit on canonical sheet 2A)
+Heather-grey sweatpants, bare furred chest, bare paws, red hand wraps on both wrists.
+- Outfit A — job `f8a9aa43-38e6-4cad-90e5-4fae10e3e144`
+- Outfit B — job `4388b96e-c6fc-49d0-a6de-f527f5185164`
