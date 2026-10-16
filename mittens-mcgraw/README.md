@@ -31,3 +31,4 @@ AI disclosure in the bio + platform AI label.
 ## Locations
 - Living room at night with Irish flag — `ec20e938-6f42-4e1d-a8e9-fc2122173ae0`
 - Boxing gym (no bench) with Irish flag — `2e1698f0-75ac-400d-b057-b8c00f36da6b`
+- Coach (with face) sheet options: `46b49398-5c3b-4d91-a48a-660299cbeda3` / `6dde2e37-9689-4631-a5eb-18244636e834`
