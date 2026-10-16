@@ -3,7 +3,7 @@
 Attach in this order:
 - @image1 = outfit sheet A (at home) — job `f8a9aa43-38e6-4cad-90e5-4fae10e3e144`
 - @image2 = chosen living-room location with Irish flag (A `1cc2d096-…` or B `ec20e938-…`)
-- @audio1 = McGraw's full voice-over (the whole script below, one file, ≤ 25 s)
+- @audio1 = McGraw's full voice-over (the whole script, one file, 26 s)
 
 ```
 TOP PRIORITY (read first):
@@ -54,7 +54,7 @@ Consistency: same cat, same scar, same ears, same outfit, same room for the whol
 
 Editing: one continuous take, no cuts, no transitions.
 
-Technical: 9:16 vertical, ~25 seconds total, audio paced to ≤ 24 s.
+Technical: 9:16 vertical, 28.5 seconds total; @audio1 runs 0.0–26.0 s, then a 2.5 s silent final beat.
 
 ON-SCREEN TEXT: none. (Added in post by the team.)
 
@@ -64,8 +64,8 @@ Mood & tempo: cocky, calm, quietly menacing; slow and unhurried, the final line 
 
 SHOT BREAKDOWN:
 0.0–3.0s — Phone settles. Blue TV light flickers on his face. «Would ya look at this. Abu Nutty and Casper.»
-3.0–9.0s — Lazy paw flick toward the screen. «A monkey and a dog, fightin' in the comments. Typin'. Cryin'. Like two little lads in the schoolyard.»
-9.0–15.5s — Head turns to the lens; THE PAUSE; glance back at the windowsill. «Ya know what a cat does when the monkey screams and the dog barks? …He sits on the windowsill. And he watches.»
-15.5–22.5s — He leans toward the lens, voice drops. «So have your little row, Abu. Casper. 'Cause when the cat comes down off that windowsill… neither of ya is gettin' back up.»
-22.5–25.0s — THE SWITCH-OFF (post-audio, silent): without looking, he presses the remote on the couch with one paw — click — the TV glow cuts out. The room drops into darkness, lit only faintly by the lamp and the rainy window; his two amber eyes catch the last light and stay on the lens. Hold until the end.
+3.0–9.5s — Lazy paw flick toward the screen. «A monkey and a dog, fightin' in the comments. Typin'. Cryin'. Like two little lads in the schoolyard.»
+9.5–16.5s — Head turns to the lens; THE PAUSE; glance back at the windowsill. «Ya know what a cat does when the monkey screams and the dog barks? …He sits on the windowsill. And he watches.»
+16.5–26.0s — He leans toward the lens, voice drops. «So have your little row, Abu. Casper. 'Cause when the cat comes down off that windowsill… neither of ya is gettin' back up.»
+26.0–28.5s — THE SWITCH-OFF (post-audio, silent): without looking, he presses the remote on the couch with one paw — click — the TV glow cuts out. The room drops into darkness, lit only faintly by the lamp and the rainy window; his two amber eyes catch the last light and stay on the lens. Hold until the end.
 ```
