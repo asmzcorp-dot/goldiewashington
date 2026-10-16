@@ -31,7 +31,7 @@ TOP PRIORITY (read first):
 @image2 — "Big" Declan Moss character sheet: identity reference ONLY, NEVER its lighting or grey background.
 @image3 — FIRST FRAME of the clip: low cage-side broadcast angle through the fence, the standoff. Match it exactly at 0.0s.
 @image4 — the knockout frame: the composition the shot after the cut is built around.
-@audio1 — mixed commentary track (two off-screen commentators + crowd). Use exactly as recorded.
+@audio1 — clip1-audio-final.mp3: off-screen commentator 2 (0.4–8.9s), then off-screen commentator 1 screaming the knockout (9.0–12.7s). Use exactly as recorded.
 
 CRITICAL — RELIGHT: both fighters lit by the arena itself — hard white broadcast spotlights straight down from the rig above the cage, bright hot top-light on heads and shoulders, deep shadows under brows and chins, cool fill bouncing up off the white canvas, warm rim from the crowd-side lights. True contact shadows of feet and paws on the canvas. They must look physically inside the cage — never pasted cut-outs; never brighter than the environment.
 LIGHT STABILITY: constant arena lighting, not a time-lapse.
@@ -69,10 +69,9 @@ Audio: @audio1 is the only dialogue — off-screen commentators; no one in frame
 Mood & tempo: tense and cocky build-up, then one explosive moment, then disbelief.
 
 SHOT BREAKDOWN:
-0.0–3.0s — SHOT 1. Standoff, McGraw southpaw hands low. C1: «Here we go! Round one, UCF Fight Night!»
-3.0–8.0s — Shrug, strut, Declan stalks. C2: «Look at this! Hands down… he's TAUNTING the big man!»
+0.0–8.0s — SHOT 1. Standoff, McGraw southpaw hands low, shoulder shrug, cocky sideways strut; Declan stalks forward and jabs at air. C2 (@audio1, 0.4–8.9s): «Look at this! Hands down… he's TAUNTING the big man! He's just walking around in there like it's a Sunday stroll!»
 8.0s — HARD CUT to SHOT 2.
-8.0–10.0s — Wild overhand, slip, straight LEFT on the chin. C1: «LEFT HAND! OHHH! HE'S OUT COLD!»
+8.0–10.0s — Wild overhand, slip, straight LEFT on the chin. C1 (@audio1, from 9.0s): «LEFT HAND! OHHH! HE'S OUT COLD!»
 10.0–14.0s — Slow-motion fall, face-first onto the canvas, crowd explodes. McGraw holds his stance, then lowers his gloves.
 ```
 
