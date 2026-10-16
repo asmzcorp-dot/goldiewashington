@@ -36,3 +36,10 @@ Anchor is now: both ears single intact pointed tips; small healed nick on the OU
 Never write "notch in the ear tip" again for McGraw.
 - Fix 2A — job `a09fd07e-8e86-45cd-86fb-9fbb832da34d`
 - Fix 2B — job `fa39857b-648a-47e9-83c9-255fa79a853c`
+
+## CANONICAL SHEET: Fix 2A — job `a09fd07e-8e86-45cd-86fb-9fbb832da34d`
+https://d8j0ntlcm91z4.cloudfront.net/user_3KPwsLOaLDxhTWQ4DM2uUhFV0qO/hf_20261016_012146_a09fd07e-8e86-45cd-86fb-9fbb832da34d.png
+
+## Face anchor / profile picture (1:1 edit on the canonical sheet)
+- Portrait A — job `3b8ff6f3-7b7f-4d5d-9894-37da4a009ca7`
+- Portrait B — job `a181dd10-723c-4093-8372-8bda71c8cf78`
