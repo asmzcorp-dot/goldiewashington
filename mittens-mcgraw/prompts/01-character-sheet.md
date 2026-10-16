@@ -19,3 +19,8 @@ Outfit (identical in all three panels, pro fighter aesthetic): black matte fight
 
 Lighting & rendering: Low-key moody directional sports-arena style studio lighting from a high frontal-side angle, rim light catching the edges of the orange fur, both sides of the figure still clearly readable for reference. The cat must remain identical across all three panels — same face markings, same ear notch, same scar, same build. Warm orange, black and gold palette, premium photorealistic fight-promo quality. 16:9 aspect ratio.
 ```
+
+## Result
+- Chosen: **variant A** — Higgsfield job `6b385107-bcce-4e12-b5e2-ff8911a3f1bf`
+  (https://d8j0ntlcm91z4.cloudfront.net/user_3KPwsLOaLDxhTWQ4DM2uUhFV0qO/hf_20261016_011532_6b385107-bcce-4e12-b5e2-ff8911a3f1bf.png)
+- Rejected: variant B — job `38458817-43ac-499e-bf7a-9784d4ce1bd6`
