@@ -54,3 +54,13 @@ Prompt snippet: "standing upright he reaches the lower chest of a standing adult
 - Always "UCF", never "UFC". Own visual identity, never UFC's red/black block font or layout:
   bold metallic GOLD letters "UCF" with three diagonal claw-scratch marks slashing through them, on black.
 - Shown on the cage canvas centre, cage padding, the belt and in commentary ("Welcome to UCF Fight Night").
+
+## REALISTIC CAT LOOK v2 (user feedback: earlier videos looked too humanoid)
+- Real cat anatomy: feline torso, heavy furry belly, short bent hind legs with real cat feet, round cat paws, long tail; NO human shoulders/chest/abs/arms/hands.
+- Fluffy dense fur, not sleek muscle. Huge Maine-Coon-sized tomcat (do NOT scale him to a man's chest anymore).
+- Stands up like a real cat briefly standing: slightly hunched, hind legs bent, tail on the floor for balance. Minimal clothing.
+- Never write "muscular", "broad shoulders" or "like a human fighter" again.
+- Sheet v2 options: A `c1f8a31e-4800-446f-bcf1-6db14f2375bb` / B `63bcb68a-6c3f-41a1-b4d2-69893a985872`
+
+## Credits rule
+- Generate ONE variant per image from now on (user request) unless asked otherwise.
