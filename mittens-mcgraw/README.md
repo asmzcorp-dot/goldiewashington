@@ -60,7 +60,8 @@ Prompt snippet: "standing upright he reaches the lower chest of a standing adult
 - Fluffy dense fur, not sleek muscle. Huge Maine-Coon-sized tomcat (do NOT scale him to a man's chest anymore).
 - Stands up like a real cat briefly standing: slightly hunched, hind legs bent, tail on the floor for balance. Minimal clothing.
 - Never write "muscular", "broad shoulders" or "like a human fighter" again.
-- Sheet v2 options: A `c1f8a31e-4800-446f-bcf1-6db14f2375bb` / B `63bcb68a-6c3f-41a1-b4d2-69893a985872`
+- CANONICAL realistic sheet v2: B `63bcb68a-6c3f-41a1-b4d2-69893a985872` (A rejected)
+- Weigh-in look (sheet B + gold "9 LIVES" chain): `6ddd0354-b644-4871-b0f1-47bc9159a819`
 
 ## Credits rule
 - Generate ONE variant per image from now on (user request) unless asked otherwise.

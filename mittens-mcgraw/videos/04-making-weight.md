@@ -6,3 +6,4 @@ Caption: "Made weight. Barely. 🤢🐾"
 ## Assets
 - Weigh-in stage (9:16) — `f6ca4b12-9df8-48ee-bf6d-6e5edeaa603c`
 - McGraw realistic sheet v2 — see README
+- McGraw weigh-in sheet (B + 9 LIVES chain) — `6ddd0354-b644-4871-b0f1-47bc9159a819`
